@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grisC">#F5F3EE</color>
+    <color name="grisO">#5E5951</color>
+    <color name="gris">#4A463E</color>
+    <color name="verde">#A6D885</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Colores para Segura-Mente -->
+    <color name="primary_green">#4CAF50</color>
+    <color name="primary_blue">#2196F3</color>
+    <color name="background_gradient">#F5F5F5</color>
+    <color name="text_primary">#5E5951</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#888071</color>
+    <color name="form_background">#E8E8E8</color>
+    <color name="edittext_background">#FFFFFF</color>
+    <color name="button_primary">#888888</color>
+    <color name="background_light_beige">#DCD7CB</color>
+    <color name="aster">#E25454</color>
+    <color name="Azul">#71B0C5</color>
+    <color name="iconos">#77726A</color>
+    <color name="iconoOjo">#B1B1B1</color>
+    <color name="fondomenu">#DCD7CB</color>
+    <color name="header">#F2EDE0</color>
+    <color name="fondoF">#F5F3EE</color>
+
+</resources>
